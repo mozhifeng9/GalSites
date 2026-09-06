@@ -70,6 +70,7 @@
 | My Galgame   | https://www.ttloli.com/       | [地址发布页](https://www.mmgal.com/)                                                  | -          |
 | NekoGAL      | https://www.nekogal.com/      | -                                                                                | 需登录 \| 需回复 |
 | Nysource     | https://res.nyne.dev/         | [GitHub](https://github.com/KUN1007/kun-touchgal-next)                           | -          |
+| SakuGAL | https://sakugal.com/ | - | 需回复 |
 | Sukebei      | https://sukebei.nyaa.si/      | -                                                                                | 磁链为主       |
 | TouchGal     | https://www.touchgal.us       | [GitHub](https://github.com/KUN1007/kun-touchgal-next)                           | -          |
 | VNDL         | https://www.galrc.eu.org/     | -                                                                                | -          |
@@ -82,7 +83,6 @@
 | 猫猫网盘         | https://sakiko.de/            | [GitHub](https://github.com/Yuri-NagaSaki)                                       | -          |
 | 喵源领域         | https://www.nyantaku.com/     | [地址发布页](https://www.acgn.im/) \| [网盘页面](https://www.nullcloud.top/)              | 需登录        |
 | 莫邪游戏资源网      | https://xiuren.cyou/          | -                                                                                | -          |
-| 绮梦ACG        | https://game.acgs.one/        | [地址发布页](https://acgs.one/)                                                       | 需回复        |
 | 青桔网          | https://www.qingju.org/       | [地址发布页](https://qingju.org/) \| [GitHub](https://github.com/qingjuacg/qingju/)   | -          |
 | 晴空咖啡馆        | https://aosoracafe.com/       | -                                                                                | -          |
 | 绅士天堂         | https://www.gogalgame.com/    | -                                                                                | 需登录        |
